@@ -56,7 +56,7 @@ a {
   display: none;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1200px) {
   .img .overlay {
     display: block;
   }
