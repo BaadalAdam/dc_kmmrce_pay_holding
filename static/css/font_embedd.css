@@ -1,0 +1,95 @@
+/***********************************************************
+__Yellix__________________________________________________*/
+@font-face {
+    font-family: 'Yellix';
+    src: url('fonts/yellix/Yellix-Thin.eot');
+    src: local('Yellix Thin'), local('Yellix-Thin'),
+        url('fonts/yellix/Yellix-Thin.eot?#iefix') format('embedded-opentype'),
+        url('fonts/yellix/Yellix-Thin.woff2') format('woff2'),
+        url('fonts/yellix/Yellix-Thin.woff') format('woff'),
+        url('fonts/yellix/Yellix-Thin.ttf') format('truetype'),
+        url('fonts/yellix/Yellix-Thin.svg#Yellix-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yellix';
+    src: url('fonts/yellix/Yellix-Light.eot');
+    src: local('Yellix Light'), local('Yellix-Light'),
+        url('fonts/yellix/Yellix-Light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/yellix/Yellix-Light.woff2') format('woff2'),
+        url('fonts/yellix/Yellix-Light.woff') format('woff'),
+        url('fonts/yellix/Yellix-Light.ttf') format('truetype'),
+        url('fonts/yellix/Yellix-Light.svg#Yellix-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yellix';
+    src: url('fonts/yellix/Yellix-Regular.eot');
+    src: local('Yellix Regular'), local('Yellix-Regular'),
+        url('fonts/yellix/Yellix-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/yellix/Yellix-Regular.woff2') format('woff2'),
+        url('fonts/yellix/Yellix-Regular.woff') format('woff'),
+        url('fonts/yellix/Yellix-Regular.ttf') format('truetype'),
+        url('fonts/yellix/Yellix-Regular.svg#Yellix-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Yellix';
+    src: url('fonts/yellix/Yellix-Medium.eot');
+    src: local('Yellix Medium'), local('Yellix-Medium'),
+        url('fonts/yellix/Yellix-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/yellix/Yellix-Medium.woff2') format('woff2'),
+        url('fonts/yellix/Yellix-Medium.woff') format('woff'),
+        url('fonts/yellix/Yellix-Medium.ttf') format('truetype'),
+        url('fonts/yellix/Yellix-Medium.svg#Yellix-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yellix';
+    src: url('fonts/yellix/Yellix-Bold.eot');
+    src: local('Yellix Bold'), local('Yellix-Bold'),
+        url('fonts/yellix/Yellix-Bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/yellix/Yellix-Bold.woff2') format('woff2'),
+        url('fonts/yellix/Yellix-Bold.woff') format('woff'),
+        url('fonts/yellix/Yellix-Bold.ttf') format('truetype'),
+        url('fonts/yellix/Yellix-Bold.svg#Yellix-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yellix';
+    src: url('fonts/yellix/Yellix-SemiBold.eot');
+    src: local('Yellix SemiBold'), local('Yellix-SemiBold'),
+        url('fonts/yellix/Yellix-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/yellix/Yellix-SemiBold.woff2') format('woff2'),
+        url('fonts/yellix/Yellix-SemiBold.woff') format('woff'),
+        url('fonts/yellix/Yellix-SemiBold.ttf') format('truetype'),
+        url('fonts/yellix/Yellix-SemiBold.svg#Yellix-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+/***********************************************************
+__Akkurat-Mono__________________________________________________*/
+
+@font-face {
+    font-family: 'Akkurat-Mono';
+    src: url('fonts/akkurat/Akkurat-Mono.eot');
+    src: local('Akkurat-Mono'),
+        url('fonts/akkurat/Akkurat-Mono.eot?#iefix') format('embedded-opentype'),
+        url('fonts/akkurat/Akkurat-Mono.woff2') format('woff2'),
+        url('fonts/akkurat/Akkurat-Mono.woff') format('woff'),
+        url('fonts/akkurat/Akkurat-Mono.ttf') format('truetype'),
+        url('fonts/akkurat/Akkurat-Mono.svg#Akkurat-Mono') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
